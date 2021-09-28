@@ -125,5 +125,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8703a1735a97c9445b5f308ad9ab0248, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosionprefab: {fileID: 0}
-  pointValue: 1
+  kegleprefab: {fileID: 7555794898980033963}
+  pointValue: 13
